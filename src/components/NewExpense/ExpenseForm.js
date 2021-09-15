@@ -12,7 +12,7 @@ const ExpenseForm = (props) => {
   const AmountChangeHandler = (event) => {
     SetenteredAmount(event.target.value);
   };
-  const DAteChangeHandler = (event) => {
+  const DateChangeHandler = (event) => {
     SetenteredDate(event.target.value);
   };
 
@@ -24,7 +24,7 @@ const ExpenseForm = (props) => {
       date: enteredDate,
     };
 
-    props.onSaveEXpenseData(ExpenseData);
+    props.onSaveExpenseData(ExpenseData);
     SetenteredTitle("");
     SetenteredAmount("");
     SetenteredDate("");
@@ -58,7 +58,7 @@ const ExpenseForm = (props) => {
             min="2019-2-5"
             max="2022-12-31"
             value={enteredDate}
-            onChange={DAteChangeHandler}
+            onChange={DateChangeHandler}
           />
         </div>
       </div>
