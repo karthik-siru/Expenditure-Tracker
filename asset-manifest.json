@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/karthik-siru/Expenditure-Tracker/static/css/main.757e01bc.chunk.css",
+    "main.js": "/karthik-siru/Expenditure-Tracker/static/js/main.b2838656.chunk.js",
+    "main.js.map": "/karthik-siru/Expenditure-Tracker/static/js/main.b2838656.chunk.js.map",
+    "runtime-main.js": "/karthik-siru/Expenditure-Tracker/static/js/runtime-main.9631aa17.js",
+    "runtime-main.js.map": "/karthik-siru/Expenditure-Tracker/static/js/runtime-main.9631aa17.js.map",
+    "static/js/2.5fadb67f.chunk.js": "/karthik-siru/Expenditure-Tracker/static/js/2.5fadb67f.chunk.js",
+    "static/js/2.5fadb67f.chunk.js.map": "/karthik-siru/Expenditure-Tracker/static/js/2.5fadb67f.chunk.js.map",
+    "index.html": "/karthik-siru/Expenditure-Tracker/index.html",
+    "static/css/main.757e01bc.chunk.css.map": "/karthik-siru/Expenditure-Tracker/static/css/main.757e01bc.chunk.css.map",
+    "static/js/2.5fadb67f.chunk.js.LICENSE.txt": "/karthik-siru/Expenditure-Tracker/static/js/2.5fadb67f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9631aa17.js",
+    "static/js/2.5fadb67f.chunk.js",
+    "static/css/main.757e01bc.chunk.css",
+    "static/js/main.b2838656.chunk.js"
+  ]
+}
