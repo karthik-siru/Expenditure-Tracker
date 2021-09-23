@@ -1,14 +1,12 @@
-<<<<<<< HEAD
+# Expenditure Tracker
+
+This react app is a single page aplication ,used to track all the expenses. It also has chart , which shows the distribution of expenses in a selected year.
+
 ## What the chart Represent?
 
-All the graphs are with respective to the maximum expenditure . The maxValue will be filled completely and the others with respective to it.
-=======
-# Expenditure Tracker 
- This react app is a single page aplication ,used to track all the expenses. It also has chart , which shows the distribution of expenses in a selected year.
+    All the graphs are with respective to the maximum expenditure . The maxValue will be filled completely and the others with respective to it.
 
->>>>>>> c14e57b1c80b6d7cb5b994e88d4a14a57909d47c
-
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -39,11 +37,8 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-
-
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
