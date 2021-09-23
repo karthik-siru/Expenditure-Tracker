@@ -1,3 +1,7 @@
+## What the chart Represent?
+
+All the graphs are with respective to the maximum expenditure . The maxValue will be filled completely and the others with respective to it.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
